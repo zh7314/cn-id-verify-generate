@@ -48,3 +48,7 @@ foreach ($r as $k => $v) {
     }
 }
 ```
+#### 新增composer
+```
+composer require zx/cn-id-verify-generate
+```

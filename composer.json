@@ -1,5 +1,5 @@
 {
-    "name": "ZX/CommonAlgorithms",
+    "name": "zx/common-algorithms",
     "description": "php通用算法集合",
     "type": "library",
     "licence": "MIT",

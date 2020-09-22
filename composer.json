@@ -2,7 +2,7 @@
     "name": "zx/cn-id-verify-generate",
     "description": "身份证号码验证和随机生成",
     "type": "library",
-    "licence": "MIT",
+    "license": "MIT",
     "require": {
         "php": ">=7.2.9"
     },

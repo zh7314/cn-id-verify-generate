@@ -1,6 +1,6 @@
 {
-    "name": "zx/common-algorithms",
-    "description": "php通用算法集合",
+    "name": "zx/cn-id-verify-generate",
+    "description": "身份证号码验证和随机生成",
     "type": "library",
     "licence": "MIT",
     "require": {
